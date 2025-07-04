@@ -17,17 +17,3 @@ An AI-powered early warning system that monitors community health data to detect
 - 🖥️ **Interactive UI** built with Streamlit for live monitoring
 
 ---
-
-## 📷 Screenshot
-
-![App Screenshot](screenshot.png)
-
----
-
-## ⚙️ Run Locally
-
-1. **Clone the repository**
-
-```bash
-git clone https://github.com/Saicharan270804/Techsophy-Coding-Test.git
-cd Techsophy-Coding-Test
